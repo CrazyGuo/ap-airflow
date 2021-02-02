@@ -1,0 +1,1 @@
+﻿把part1 和 part2目录解压出来 , 然后将内容拷贝放到instantclient目录下
